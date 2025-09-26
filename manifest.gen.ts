@@ -8,13 +8,11 @@ import * as $$$$$$$$$$$2 from "./apps/deco/htmx.ts";
 import * as $$$$$$$$$$$3 from "./apps/deco/records.ts";
 import * as $$$$$$$$$$$4 from "./apps/local/elux-components-app.ts";
 import * as $$$$$$$$$$$5 from "./apps/site.ts";
-import * as $$$$$$0 from "./sections/Header.tsx";
-import * as $$$$$$1 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$0 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "sections": {
-    "site/sections/Header.tsx": $$$$$$0,
-    "site/sections/Theme/Theme.tsx": $$$$$$1,
+    "site/sections/Theme/Theme.tsx": $$$$$$0,
   },
   "apps": {
     "site/apps/deco/analytics.ts": $$$$$$$$$$$0,
