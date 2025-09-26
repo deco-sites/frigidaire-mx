@@ -7,9 +7,9 @@
           "type": "text",
           "items": [
             {
+              "link": "/cocina",
               "title": "Cocina",
-              "fontWeight": "font-light",
-              "link": "/cocina"
+              "fontWeight": "font-light"
             },
             {
               "link": "/area-de-lavado",
@@ -23,8 +23,8 @@
             }
           ],
           "title": " Categorías de productos",
-          "textColor": "secondary",
-          "link": "/"
+          "link": "/",
+          "textColor": "secondary"
         }
       ],
       "justifyBetween": false
