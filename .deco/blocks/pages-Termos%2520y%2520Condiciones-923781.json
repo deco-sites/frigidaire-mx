@@ -1,5 +1,4 @@
 {
-  "name": "Términos y Condies",
   "path": "/terminos-y-condiciones",
   "sections": [
     {
@@ -145,5 +144,6 @@
   "seo": {
     "__resolveType": "website/sections/Seo/SeoV2.tsx"
   },
-  "__resolveType": "website/pages/Page.tsx"
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Terms and Conditions"
 }

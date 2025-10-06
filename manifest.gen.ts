@@ -8,9 +8,11 @@ import * as $$$$$$$$$$$2 from "./apps/deco/htmx.ts";
 import * as $$$$$$$$$$$3 from "./apps/deco/records.ts";
 import * as $$$$$$$$$$$4 from "./apps/local/elux-components-app.ts";
 import * as $$$$$$$$$$$5 from "./apps/site.ts";
+import * as $$$0 from "./loaders/availableIcons.ts";
+import * as $$$1 from "./loaders/icons.ts";
 import * as $$$$$$0 from "./sections/Animation/Animation.tsx";
 import * as $$$$$$1 from "./sections/Component.tsx";
-import * as $$$$$$20 from "./sections/container/Container.tsx";
+import * as $$$$$$19 from "./sections/container/Container.tsx";
 import * as $$$$$$2 from "./sections/Content/Faq.tsx";
 import * as $$$$$$3 from "./sections/Content/Hero.tsx";
 import * as $$$$$$4 from "./sections/Content/Intro.tsx";
@@ -25,16 +27,19 @@ import * as $$$$$$12 from "./sections/Lps/SafetyGratesShowcaseSection.tsx";
 import * as $$$$$$13 from "./sections/Lps/ToggleLegalTermsSection.tsx";
 import * as $$$$$$14 from "./sections/Lps/VideoInfoCardLogoSection.tsx";
 import * as $$$$$$15 from "./sections/Miscellaneous/CookieConsent.tsx";
-import * as $$$$$$16 from "./sections/Newsletter/Newsletter.tsx";
-import * as $$$$$$17 from "./sections/Social/InstagramPosts.tsx";
-import * as $$$$$$18 from "./sections/Social/WhatsApp.tsx";
-import * as $$$$$$19 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$16 from "./sections/Social/InstagramPosts.tsx";
+import * as $$$$$$17 from "./sections/Social/WhatsApp.tsx";
+import * as $$$$$$18 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
+  "loaders": {
+    "site/loaders/availableIcons.ts": $$$0,
+    "site/loaders/icons.ts": $$$1,
+  },
   "sections": {
     "site/sections/Animation/Animation.tsx": $$$$$$0,
     "site/sections/Component.tsx": $$$$$$1,
-    "site/sections/container/Container.tsx": $$$$$$20,
+    "site/sections/container/Container.tsx": $$$$$$19,
     "site/sections/Content/Faq.tsx": $$$$$$2,
     "site/sections/Content/Hero.tsx": $$$$$$3,
     "site/sections/Content/Intro.tsx": $$$$$$4,
@@ -49,10 +54,9 @@ const manifest = {
     "site/sections/Lps/ToggleLegalTermsSection.tsx": $$$$$$13,
     "site/sections/Lps/VideoInfoCardLogoSection.tsx": $$$$$$14,
     "site/sections/Miscellaneous/CookieConsent.tsx": $$$$$$15,
-    "site/sections/Newsletter/Newsletter.tsx": $$$$$$16,
-    "site/sections/Social/InstagramPosts.tsx": $$$$$$17,
-    "site/sections/Social/WhatsApp.tsx": $$$$$$18,
-    "site/sections/Theme/Theme.tsx": $$$$$$19,
+    "site/sections/Social/InstagramPosts.tsx": $$$$$$16,
+    "site/sections/Social/WhatsApp.tsx": $$$$$$17,
+    "site/sections/Theme/Theme.tsx": $$$$$$18,
   },
   "apps": {
     "site/apps/deco/analytics.ts": $$$$$$$$$$$0,

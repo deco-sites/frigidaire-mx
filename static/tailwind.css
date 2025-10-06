@@ -2571,9 +2571,6 @@ details.collapse summary::-webkit-details-marker {
 .input[list]::-webkit-calendar-picker-indicator {
   line-height: 1em;
 }
-.input-bordered {
-  border-color: var(--fallback-bc,oklch(var(--bc)/0.2));
-}
 .\!input:focus,
   .\!input:focus-within {
   box-shadow: none !important;
@@ -5617,9 +5614,6 @@ details.collapse summary::-webkit-details-marker {
 .p-12 {
   padding: 3rem;
 }
-.p-14 {
-  padding: 3.5rem;
-}
 .p-16 {
   padding: 4rem;
 }
@@ -6228,9 +6222,6 @@ details.collapse summary::-webkit-details-marker {
 .text-\[\#E51E49\] {
   --tw-text-opacity: 1;
   color: rgb(229 30 73 / var(--tw-text-opacity));
-}
-.text-\[initial\] {
-  color: initial;
 }
 .text-accent {
   --tw-text-opacity: 1;
@@ -7969,10 +7960,6 @@ details.collapse summary::-webkit-details-marker {
     max-width: 488px;
   }
 
-  .sm\:grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
   .sm\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -8015,10 +8002,6 @@ details.collapse summary::-webkit-details-marker {
 
   .sm\:gap-2 {
     gap: 0.5rem;
-  }
-
-  .sm\:gap-20 {
-    gap: 5rem;
   }
 
   .sm\:gap-4 {
@@ -8118,10 +8101,6 @@ details.collapse summary::-webkit-details-marker {
 
   .sm\:text-center {
     text-align: center;
-  }
-
-  .sm\:text-start {
-    text-align: start;
   }
 
   .sm\:text-3xl {
@@ -9105,9 +9084,6 @@ details.collapse summary::-webkit-details-marker {
 }
 .htmx-request .\[\.htmx-request_\&\]\:block {
   display: block;
-}
-.htmx-request .\[\.htmx-request_\&\]\:inline {
-  display: inline;
 }
 .htmx-request .\[\.htmx-request_\&\]\:hidden {
   display: none;

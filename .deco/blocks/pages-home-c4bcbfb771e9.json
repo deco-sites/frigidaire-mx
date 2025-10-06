@@ -1,5 +1,5 @@
 {
-  "name": "Home Page",
+  "name": "Home",
   "sections": [
     {
       "__resolveType": "Header"
@@ -150,18 +150,6 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "Shelf Refrigerators"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "Shelf Dream Kitchen"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "elux-components-app/sections/Content/HelpCards.tsx",
         "title": "Servicio al cliente Frigidaire",
         "cards": [
@@ -233,14 +221,6 @@
     {
       "__resolveType": "website/flags/multivariate/section.ts",
       "variants": [
-        {
-          "value": {
-            "__resolveType": "Footer mobile"
-          },
-          "rule": {
-            "__resolveType": "Mobile"
-          }
-        },
         {
           "value": {
             "__resolveType": "Footer"

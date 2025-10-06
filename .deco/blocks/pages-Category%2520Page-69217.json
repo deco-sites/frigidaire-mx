@@ -1,21 +1,9 @@
 {
-  "name": "Category Page",
+  "name": "Category",
   "path": "/*",
   "sections": [
     {
-      "__resolveType": "commerce/sections/Seo/SeoPLPV2.tsx",
-      "jsonLD": {
-        "__resolveType": "PLP Loader"
-      }
-    },
-    {
       "__resolveType": "Header"
-    },
-    {
-      "__resolveType": "elux-components-app/sections/Product/ProductListing/ProductListingPage.tsx",
-      "page": {
-        "__resolveType": "PLP Loader"
-      }
     },
     {
       "__resolveType": "Footer"
