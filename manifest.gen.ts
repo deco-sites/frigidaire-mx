@@ -8,11 +8,55 @@ import * as $$$$$$$$$$$2 from "./apps/deco/htmx.ts";
 import * as $$$$$$$$$$$3 from "./apps/deco/records.ts";
 import * as $$$$$$$$$$$4 from "./apps/local/elux-components-app.ts";
 import * as $$$$$$$$$$$5 from "./apps/site.ts";
-import * as $$$$$$0 from "./sections/Theme/Theme.tsx";
+import * as $$$0 from "./loaders/availableIcons.ts";
+import * as $$$1 from "./loaders/icons.ts";
+import * as $$$$$$0 from "./sections/Animation/Animation.tsx";
+import * as $$$$$$1 from "./sections/Component.tsx";
+import * as $$$$$$19 from "./sections/container/Container.tsx";
+import * as $$$$$$2 from "./sections/Content/Faq.tsx";
+import * as $$$$$$3 from "./sections/Content/Hero.tsx";
+import * as $$$$$$4 from "./sections/Content/Intro.tsx";
+import * as $$$$$$5 from "./sections/Content/Logos.tsx";
+import * as $$$$$$6 from "./sections/Lps/ArticleFrigidaireSection.tsx";
+import * as $$$$$$7 from "./sections/Lps/BannerSliderSection.tsx";
+import * as $$$$$$8 from "./sections/Lps/FeaturesWithHeroProductSection.tsx";
+import * as $$$$$$9 from "./sections/Lps/FooterFrigidaireSection.tsx";
+import * as $$$$$$10 from "./sections/Lps/ImageTextFeatureSection.tsx";
+import * as $$$$$$11 from "./sections/Lps/InfoCardCustomBgSection.tsx";
+import * as $$$$$$12 from "./sections/Lps/SafetyGratesShowcaseSection.tsx";
+import * as $$$$$$13 from "./sections/Lps/ToggleLegalTermsSection.tsx";
+import * as $$$$$$14 from "./sections/Lps/VideoInfoCardLogoSection.tsx";
+import * as $$$$$$15 from "./sections/Miscellaneous/CookieConsent.tsx";
+import * as $$$$$$16 from "./sections/Social/InstagramPosts.tsx";
+import * as $$$$$$17 from "./sections/Social/WhatsApp.tsx";
+import * as $$$$$$18 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
+  "loaders": {
+    "site/loaders/availableIcons.ts": $$$0,
+    "site/loaders/icons.ts": $$$1,
+  },
   "sections": {
-    "site/sections/Theme/Theme.tsx": $$$$$$0,
+    "site/sections/Animation/Animation.tsx": $$$$$$0,
+    "site/sections/Component.tsx": $$$$$$1,
+    "site/sections/container/Container.tsx": $$$$$$19,
+    "site/sections/Content/Faq.tsx": $$$$$$2,
+    "site/sections/Content/Hero.tsx": $$$$$$3,
+    "site/sections/Content/Intro.tsx": $$$$$$4,
+    "site/sections/Content/Logos.tsx": $$$$$$5,
+    "site/sections/Lps/ArticleFrigidaireSection.tsx": $$$$$$6,
+    "site/sections/Lps/BannerSliderSection.tsx": $$$$$$7,
+    "site/sections/Lps/FeaturesWithHeroProductSection.tsx": $$$$$$8,
+    "site/sections/Lps/FooterFrigidaireSection.tsx": $$$$$$9,
+    "site/sections/Lps/ImageTextFeatureSection.tsx": $$$$$$10,
+    "site/sections/Lps/InfoCardCustomBgSection.tsx": $$$$$$11,
+    "site/sections/Lps/SafetyGratesShowcaseSection.tsx": $$$$$$12,
+    "site/sections/Lps/ToggleLegalTermsSection.tsx": $$$$$$13,
+    "site/sections/Lps/VideoInfoCardLogoSection.tsx": $$$$$$14,
+    "site/sections/Miscellaneous/CookieConsent.tsx": $$$$$$15,
+    "site/sections/Social/InstagramPosts.tsx": $$$$$$16,
+    "site/sections/Social/WhatsApp.tsx": $$$$$$17,
+    "site/sections/Theme/Theme.tsx": $$$$$$18,
   },
   "apps": {
     "site/apps/deco/analytics.ts": $$$$$$$$$$$0,

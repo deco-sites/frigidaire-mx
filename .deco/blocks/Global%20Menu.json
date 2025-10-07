@@ -39,8 +39,9 @@
                   "link": "/"
                 }
               ],
-              "title": "Refrigeration",
-              "link": "/"
+              "title": "Refrigeradores",
+              "link": "/",
+              "titleColor": "base-100"
             }
           ]
         },
@@ -75,8 +76,9 @@
                   "link": "/"
                 }
               ],
-              "title": "Kitchens",
-              "link": "/"
+              "link": "/",
+              "titleColor": "base-100",
+              "title": "Cocinas"
             }
           ]
         },
@@ -91,8 +93,9 @@
                   "link": "/"
                 }
               ],
-              "title": "Dishwasher",
-              "link": "/"
+              "link": "/",
+              "titleColor": "base-100",
+              "title": "Lavavajillas"
             },
             {
               "icon": "search",
@@ -103,27 +106,31 @@
                   "link": "/"
                 }
               ],
-              "title": "Small  Appliances",
-              "link": "/"
+              "link": "/",
+              "titleColor": "base-100",
+              "title": "Aparatos de Cocina"
             }
           ]
         }
       ],
-      "title": "kitchen",
       "link": "/",
-      "icon": "search"
+      "icon": "search",
+      "color": "black",
+      "title": "Cocina"
     },
     {
       "collums": [],
-      "title": "Washing area",
       "link": "/",
-      "icon": "search"
+      "icon": "search",
+      "color": "black",
+      "title": "Area de Lavado"
     },
     {
       "collums": [],
-      "title": "Home well-being",
+      "title": "Bienestar del Hogar",
       "link": "/",
-      "icon": "search"
+      "icon": "search",
+      "color": "black"
     }
   ],
   "extraLinks": [
@@ -131,42 +138,64 @@
       "links": [
         {
           "icon": "search",
-          "title": "Where to buy",
-          "link": "/"
+          "link": "/",
+          "textColor": "base-100",
+          "textSize": "text-xxs",
+          "fontWeight": "font-thin",
+          "title": "Donde Comprar"
         },
         {
           "icon": "search",
-          "title": "List of Technical Support",
-          "link": "/centros-de-servicio"
+          "title": "S",
+          "link": "/centros-de-servicio",
+          "textColor": "base-100",
+          "textSize": "text-xxs",
+          "fontWeight": "font-thin"
         },
         {
           "icon": "search",
           "title": "Contact Form",
-          "link": "/"
+          "link": "/",
+          "textColor": "base-100",
+          "textSize": "text-xxs",
+          "fontWeight": "font-thin"
         }
       ],
-      "title": "Support",
-      "icon": "search"
+      "icon": "search",
+      "textColor": "black",
+      "iconColor": "black",
+      "textSize": "text-xxs",
+      "fontWeight": "font-thin",
+      "title": "Soporte"
     },
     {
       "links": [
         {
           "icon": "search",
           "title": "Blog Latin America",
-          "link": "/"
+          "link": "/",
+          "textColor": "base-100",
+          "textSize": "text-xxs",
+          "fontWeight": "font-thin"
         },
         {
           "icon": "search",
           "title": "About us",
-          "link": "/"
+          "link": "/",
+          "textColor": "base-100",
+          "textSize": "text-xxs",
+          "fontWeight": "font-thin"
         }
       ],
       "title": "Frigidaire",
-      "icon": "search"
+      "icon": "search",
+      "textColor": "black",
+      "iconColor": "black",
+      "textSize": "text-xxs",
+      "fontWeight": "font-thin"
     }
   ],
   "languages": {
-    "title": "EN",
     "links": [
       {
         "icon": "search",
@@ -176,15 +205,24 @@
       {
         "icon": "search",
         "title": "Español",
-        "link": "/"
+        "link": "/",
+        "textColor": "black"
       }
     ],
-    "icon": "search"
+    "icon": "search",
+    "textColor": "black",
+    "iconColor": "black",
+    "title": "ES",
+    "textSize": "text-base",
+    "fontWeight": "font-normal"
   },
   "mobile": {
     "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/7b8ff11a-6d0d-4231-98a5-d27f235e06e5/Logo-Default.png",
-    "textGoBack": "Return"
+    "textGoBack": "Return",
+    "logoWidth": 150,
+    "logoHeight": 17
   },
   "menuText": "Todas las categorias",
-  "allCategoriesText": "Categories"
+  "allCategoriesText": "Categorias",
+  "hideSecondaryMenu": false
 }
