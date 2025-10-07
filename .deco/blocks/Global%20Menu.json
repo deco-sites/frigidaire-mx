@@ -133,88 +133,11 @@
       "color": "black"
     }
   ],
-  "extraLinks": [
-    {
-      "links": [
-        {
-          "icon": "search",
-          "link": "/",
-          "textColor": "base-100",
-          "textSize": "text-xxs",
-          "fontWeight": "font-thin",
-          "title": "Donde Comprar"
-        },
-        {
-          "icon": "search",
-          "title": "S",
-          "link": "/centros-de-servicio",
-          "textColor": "base-100",
-          "textSize": "text-xxs",
-          "fontWeight": "font-thin"
-        },
-        {
-          "icon": "search",
-          "title": "Contact Form",
-          "link": "/",
-          "textColor": "base-100",
-          "textSize": "text-xxs",
-          "fontWeight": "font-thin"
-        }
-      ],
-      "icon": "search",
-      "textColor": "black",
-      "iconColor": "black",
-      "textSize": "text-xxs",
-      "fontWeight": "font-thin",
-      "title": "Soporte"
-    },
-    {
-      "links": [
-        {
-          "icon": "search",
-          "title": "Blog Latin America",
-          "link": "/",
-          "textColor": "base-100",
-          "textSize": "text-xxs",
-          "fontWeight": "font-thin"
-        },
-        {
-          "icon": "search",
-          "title": "About us",
-          "link": "/",
-          "textColor": "base-100",
-          "textSize": "text-xxs",
-          "fontWeight": "font-thin"
-        }
-      ],
-      "title": "Frigidaire",
-      "icon": "search",
-      "textColor": "black",
-      "iconColor": "black",
-      "textSize": "text-xxs",
-      "fontWeight": "font-thin"
-    }
-  ],
+  "extraLinks": [],
   "languages": {
-    "links": [
-      {
-        "icon": "search",
-        "title": "English",
-        "link": "/"
-      },
-      {
-        "icon": "search",
-        "title": "Español",
-        "link": "/",
-        "textColor": "black"
-      }
-    ],
-    "icon": "search",
-    "textColor": "black",
-    "iconColor": "black",
+    "links": [],
     "title": "ES",
-    "textSize": "text-base",
-    "fontWeight": "font-normal"
+    "hide": true
   },
   "mobile": {
     "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/7b8ff11a-6d0d-4231-98a5-d27f235e06e5/Logo-Default.png",
