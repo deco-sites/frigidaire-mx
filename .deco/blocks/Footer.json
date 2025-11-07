@@ -104,7 +104,7 @@
           "items": [
             {
               "icon": "Facebook",
-              "link": "https://www.facebook.com/frigidaire.centroamerica"
+              "link": "https://www.facebook.com/FrigidaireMexico/"
             },
             {
               "icon": "Instagram",
@@ -221,7 +221,7 @@
     }
   ],
   "trademark": "TM & © 2023 Deco Storefront, Inc.",
-  "richText": "<p style=\"text-align: justify\">Las fotos son a modo ilustrativo. La venta de cualquiera de los productos publicados está sujeta a la verificación de stock. Los precios online y los planes de financiación para los productos presentados/publicados en <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.frigidaire.com.mx\">www.frigidaire.com.mx</a> son válidos exclusivamente para la compra vía internet en las páginas antes mencionadas. Las especificaciones técnicas y descripciones están sujetas a cambios sin previo aviso.</p>",
+  "richText": "<p></p>",
   "title": {
     "fontColor": "base-100",
     "fontSize": "text-xs",
