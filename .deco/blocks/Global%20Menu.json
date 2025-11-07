@@ -10,12 +10,7 @@
               "navItems": [
                 {
                   "icon": "search",
-                  "title": "One Door",
-                  "link": "/"
-                },
-                {
-                  "icon": "search",
-                  "title": "Two Doors",
+                  "title": "Una Puerta",
                   "link": "/"
                 },
                 {
@@ -30,12 +25,7 @@
                 },
                 {
                   "icon": "search",
-                  "title": "Freezers",
-                  "link": "/"
-                },
-                {
-                  "icon": "search",
-                  "title": "Wine Cellars",
+                  "title": "Vinos y Bebidas",
                   "link": "/"
                 }
               ],
@@ -52,12 +42,17 @@
               "navItems": [
                 {
                   "icon": "search",
-                  "title": "Kitchens / Stoves",
+                  "title": "Campanas",
                   "link": "/"
                 },
                 {
                   "icon": "search",
-                  "title": "Grills / Table",
+                  "title": "Estufas",
+                  "link": "/"
+                },
+                {
+                  "icon": "search",
+                  "title": "Hornos",
                   "link": "/"
                 },
                 {
@@ -67,12 +62,7 @@
                 },
                 {
                   "icon": "search",
-                  "title": "Bells",
-                  "link": "/"
-                },
-                {
-                  "icon": "search",
-                  "title": "Ovens",
+                  "title": "Parillas",
                   "link": "/"
                 }
               ],
@@ -89,26 +79,13 @@
               "navItems": [
                 {
                   "icon": "search",
-                  "title": "Recessed",
+                  "title": "Empotrables",
                   "link": "/"
                 }
               ],
               "link": "/",
               "titleColor": "base-100",
               "title": "Lavavajillas"
-            },
-            {
-              "icon": "search",
-              "navItems": [
-                {
-                  "icon": "search",
-                  "title": "xxx",
-                  "link": "/"
-                }
-              ],
-              "link": "/",
-              "titleColor": "base-100",
-              "title": "Aparatos de Cocina"
             }
           ]
         }
@@ -119,7 +96,35 @@
       "title": "Cocina"
     },
     {
-      "collums": [],
+      "collums": [
+        {
+          "categories": [
+            {
+              "icon": "search",
+              "navItems": [
+                {
+                  "icon": "search",
+                  "link": "/",
+                  "title": "Centro de Lavado"
+                },
+                {
+                  "icon": "search",
+                  "title": "Lavadoras",
+                  "link": "/"
+                },
+                {
+                  "icon": "search",
+                  "title": "Secadoras",
+                  "link": "/"
+                }
+              ],
+              "titleColor": "base-100",
+              "title": "Area de Lavado",
+              "link": "/"
+            }
+          ]
+        }
+      ],
       "link": "/",
       "icon": "search",
       "color": "black",
