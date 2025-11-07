@@ -22,7 +22,6 @@
       }
     }
   },
-  "title": "Productos más vendidos",
   "extraLink": {},
   "products": [
     {
@@ -42,7 +41,7 @@
           ]
         }
       },
-      "title": "Refrigeración"
+      "title": "Inspiracion para tu cocina"
     },
     {
       "loader": {
@@ -60,7 +59,7 @@
           ]
         }
       },
-      "title": "Cocina"
+      "title": "Arma tu hogar ideal"
     },
     {
       "loader": {
@@ -79,7 +78,7 @@
           ]
         }
       },
-      "title": "Lavado"
+      "title": "Tecnologia que simplifica la vida"
     }
   ]
 }

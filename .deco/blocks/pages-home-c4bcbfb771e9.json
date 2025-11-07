@@ -133,16 +133,6 @@
             "title": "Cocina",
             "icon": "cocina-frigidaire",
             "url": "/cocina"
-          },
-          {
-            "title": "Aire acondicionado",
-            "icon": "wind-frigidaire",
-            "url": "/bienestar-del-hogar"
-          },
-          {
-            "title": "Pequeños Electrodomésticos",
-            "icon": "pan-frigidaire",
-            "url": "/pequenos-electrodomesticos/electrodomesticos"
           }
         ]
       }
@@ -170,6 +160,12 @@
             "url": "/Venta-de-partes"
           }
         ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Shelf Refrigerators"
       }
     },
     {
