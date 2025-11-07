@@ -147,7 +147,7 @@
             "icon": "headset-frigidaire",
             "title": "Contáctanos",
             "url": "/contactanos",
-            "description": "¿Cómo podems ayudarte? Llena el formulario"
+            "description": "¿Cómo podemos ayudarte? Llena el formulario."
           },
           {
             "icon": "tool-frigidaire",
@@ -156,7 +156,7 @@
           },
           {
             "icon": "shopping_bag",
-            "title": "Venta de partes productos Frigidaire",
+            "title": "Venta de partes Frigidaire",
             "url": "/Venta-de-partes"
           }
         ]
