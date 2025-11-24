@@ -28,38 +28,6 @@
           },
           {
             "desktop": {
-              "image": "https://assets.decocache.com/frigidaire-es/d2fe6442-f78a-4fbe-b6b1-673edccdf1ce/Banner_Web-(1).png",
-              "width": 1280,
-              "height": 400
-            },
-            "mobile": {
-              "image": "https://assets.decocache.com/frigidaire-es/10b2abe5-08ae-4167-aaa2-01bab2378030/Banner_Movil-(1).png",
-              "width": 375,
-              "height": 275
-            },
-            "bannerType": "image",
-            "alt": "Welcome",
-            "action": {
-              "href": "/"
-            }
-          },
-          {
-            "desktop": {
-              "image": "https://assets.decocache.com/frigidaire-es/634f99ba-978c-461d-85d5-a591ce124b74/Banner_Web.png"
-            },
-            "mobile": {
-              "image": "https://assets.decocache.com/frigidaire-es/1b770d67-7e23-4c9b-ada9-33d618be8bde/Banner_Movil.png",
-              "width": 400,
-              "height": 350
-            },
-            "bannerType": "image",
-            "alt": "SDA",
-            "action": {
-              "href": "/pequenos-electrodomesticos"
-            }
-          },
-          {
-            "desktop": {
               "image": "https://assets.decocache.com/frigidaire-es/65614279-21cf-4629-ab1e-4692378a6d38/Banner-3-web-ES.png"
             },
             "mobile": {
