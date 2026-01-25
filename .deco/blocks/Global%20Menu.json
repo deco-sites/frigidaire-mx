@@ -6,7 +6,6 @@
         {
           "categories": [
             {
-              "icon": "search",
               "navItems": [
                 {
                   "icon": "search",
@@ -31,7 +30,8 @@
               ],
               "title": "Refrigeradores",
               "link": "/",
-              "titleColor": "base-100"
+              "titleColor": "base-100",
+              "icon": "search"
             }
           ]
         },
@@ -91,16 +91,15 @@
         }
       ],
       "link": "/",
-      "icon": "search",
       "color": "black",
-      "title": "Cocina"
+      "title": "Cocina",
+      "icon": "search"
     },
     {
       "collums": [
         {
           "categories": [
             {
-              "icon": "search",
               "navItems": [
                 {
                   "icon": "search",
@@ -120,15 +119,16 @@
               ],
               "titleColor": "base-100",
               "title": "Area de Lavado",
-              "link": "/"
+              "link": "/",
+              "icon": "search"
             }
           ]
         }
       ],
       "link": "/",
-      "icon": "search",
       "color": "black",
-      "title": "Area de Lavado"
+      "title": "Area de Lavado",
+      "icon": "search"
     },
     {
       "collums": [],

@@ -167,7 +167,7 @@
           {
             "image": "https://data.decoassets.com/frigidaire-es/8beeab5c-301d-4996-a767-e95e5ee2cfb9/COCINA.jpg",
             "link": "/cocina",
-            "text": "Cocina"
+            "text": "Cocción"
           },
           {
             "image": "https://data.decoassets.com/frigidaire-es/c9d83555-c847-4887-8e74-aefe199f108b/AREA-DE-LAVADO.jpg",
@@ -175,9 +175,9 @@
             "text": "Área de lavado"
           },
           {
-            "image": "https://data.decoassets.com/frigidaire-es/f3f4cf9a-0faa-4340-842b-820f8f080b03/BIENESTAR-DEL-HOGAR.jpg",
-            "text": "Bienestar del hogar",
-            "link": "bienestar-del-hogar"
+            "image": "https://assets.decocache.com/frigidaire-mx/1df12868-ca49-464c-8ea2-e98c92a3b759/Captura-de-tela-2026-01-25-183731.png",
+            "text": "Refrigeración",
+            "link": "/cocina/refrigeracion"
           }
         ]
       }
