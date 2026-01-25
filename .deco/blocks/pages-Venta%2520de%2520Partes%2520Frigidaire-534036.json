@@ -1,0 +1,55 @@
+{
+  "name": "Venta de Partes Frigidaire",
+  "path": "/Venta-de-partes",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "website/sections/Seo/SeoV2.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "elux-components-app/sections/Content/Breadcrumb.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "website/flags/multivariate/section.ts",
+        "variants": [
+          {
+            "value": {
+              "__resolveType": "elux-components-app/sections/Institutional/Support.tsx"
+            }
+          },
+          {
+            "value": {
+              "__resolveType": "elux-components-app/sections/Institutional/Support.tsx"
+            },
+            "rule": {
+              "__resolveType": "website/matchers/always.ts"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

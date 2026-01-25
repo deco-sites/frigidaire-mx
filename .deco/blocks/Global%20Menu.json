@@ -136,6 +136,13 @@
       "link": "/",
       "icon": "search",
       "color": "black"
+    },
+    {
+      "color": "base-100",
+      "collums": [],
+      "title": "¿Dónde comprar?",
+      "icon": "search",
+      "link": "/donde-comprar"
     }
   ],
   "extraLinks": [],
