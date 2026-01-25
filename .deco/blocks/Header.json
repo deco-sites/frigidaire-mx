@@ -2,7 +2,7 @@
   "__resolveType": "elux-components-app/sections/Header/Header.tsx",
   "logo": {
     "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-latam-us/6606c647-a369-41fb-b9ed-c4011d6ea7ad/Logo.png",
-    "width": 180,
+    "width": 150,
     "height": 17,
     "alt": "frigidaire"
   },

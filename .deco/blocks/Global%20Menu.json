@@ -154,8 +154,8 @@
   "mobile": {
     "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/7b8ff11a-6d0d-4231-98a5-d27f235e06e5/Logo-Default.png",
     "textGoBack": "Return",
-    "logoWidth": 150,
-    "logoHeight": 17
+    "logoWidth": 120,
+    "logoHeight": 14
   },
   "menuText": "Todas las categorias",
   "allCategoriesText": "Categorias",
