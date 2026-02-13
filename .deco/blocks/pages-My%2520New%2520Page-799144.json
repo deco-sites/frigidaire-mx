@@ -94,24 +94,545 @@
               {
                 "cardItems": [
                   {
-                    "icon": "headset-frigidaire",
-                    "label": "Electrolux - 800 1122 215 "
+                    "icon": "home_pin",
+                    "label": "Servicios y Refacciones Rubio"
                   },
                   {
                     "icon": "headset-frigidaire",
-                    "label": "Frigidaire / WW - (800) 1122 216 "
+                    "label": "4499706293"
                   },
                   {
                     "icon": "headset-frigidaire",
-                    "label": "Ciudad de México - (55) 1555-3500 "
-                  },
-                  {
-                    "icon": "email-frigidaire",
-                    "label": "servicioalcliente@electrolux.com",
-                    "href": "mailto:servicioalcliente@electrolux.com"
+                    "label": "4499708434"
                   }
                 ],
-                "title": "México"
+                "title": "Aguascalientes"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Servi Aire"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "6241426583"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "0456241085400"
+                  }
+                ],
+                "title": "Baja California Sur"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Mereti Vallejo"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "5557390993"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "Servicios Tecnicos Profesionales"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "7222197884"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "7222906129"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "Suma"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "5550492031"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "5550492032"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "Top Technologz"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "5513369597"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "5527309574"
+                  }
+                ],
+                "title": "Ciudad de Mexico y Estado de México"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Ingenieria en Sistemas Electromecanicos"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "9626284110"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "0459621157946"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "045 9621230617"
+                  }
+                ],
+                "title": "Chiapas"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Servitec Cd. Juarez"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "6566163883"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "6566389210"
+                  }
+                ],
+                "title": "Chihuahua"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "COSETE - Comercializadora de Servicios Tecnicos"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8183484950"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8183470709"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8183470690"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "Electronica de Hoyos"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "866 633 9094"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8661344918"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "Refacciones y Servicio Guica"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8711877021"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8711571625"
+                  }
+                ],
+                "title": "Coahuila"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Servicio Especializado Enriquez"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "33 22907105"
+                  }
+                ],
+                "title": "Colima"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Refacciones y Servicio Guica"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8711877021"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8711571625"
+                  }
+                ],
+                "title": "Durango"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Distribuiciones Frilav del Bajio"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "4777795469"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "4773900048"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "Refrigeracion y Linea Blanca del Bajio"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "4428274246"
+                  },
+                  {
+                    "icon": "home_pin",
+                    "label": "4426084899"
+                  }
+                ],
+                "title": "Guanajuato"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Tecnoplus Acapulco"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "7444403562"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "7442247572"
+                  }
+                ],
+                "title": "Guerrero"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Suma"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "5550492031"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "5550492032"
+                  }
+                ],
+                "title": "Hidalgo"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Servicio Especializado Enriquez"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "33 22907105"
+                  }
+                ],
+                "title": "Jalisco"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Refrigeracion y Linea Blanca del Bajio"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "4428274246"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "4426084899"
+                  }
+                ],
+                "title": "Michoacan"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Suma"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "5550492031"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "5550492032"
+                  }
+                ],
+                "title": "Morelos"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Servicio Especializado Enriquez"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "33 22907105"
+                  }
+                ],
+                "title": "Nayarit"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "COSETE - Comercializadora de Servicios Tecnicos"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8183484950"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8183470709"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8183470690"
+                  }
+                ],
+                "title": "Nuevo Leon"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "ServiFast"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "9515012244"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "9515691530"
+                  }
+                ],
+                "title": "Oaxaca"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Plus Service"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "222 945 8009"
+                  }
+                ],
+                "title": "Puebla"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Refrigeracion Integral de Queretaro"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "4421578400"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "Refrigeracion y Linea Blanca del Bajio"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "4428274246"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "4426084899"
+                  }
+                ],
+                "title": "Queretaro"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Tecniservicios Cruz"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "9982121304"
+                  }
+                ],
+                "title": "Quintana Roo"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Telem Electronics & AHR"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "4448150482"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "4448153676"
+                  }
+                ],
+                "title": "San Luis Potosi"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Refrigeracion Guardado"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "0456672392935"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "6671657324"
+                  },
+                  {},
+                  {
+                    "icon": "home_pin",
+                    "label": "Refrigeracion Valdez"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "6688130417"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "045 6681572964"
+                  }
+                ],
+                "title": "Sinaloa"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Servicios Integrales Frisur"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "9933571002"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "9932673428"
+                  }
+                ],
+                "title": "Tabasco"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Servicio Banthi"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8343152901"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "8341823269"
+                  }
+                ],
+                "title": "Tamaulipas"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Plus Service"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "222 945 8009"
+                  }
+                ],
+                "title": "Tlaxcala"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "Servicio y Soporte"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "2299355951"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "2292853165"
+                  }
+                ],
+                "title": "Veracruz"
+              },
+              {
+                "cardItems": [
+                  {
+                    "icon": "home_pin",
+                    "label": "ServiceDepot Merida"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "9993162345"
+                  },
+                  {
+                    "icon": "headset-frigidaire",
+                    "label": "045 9992747914"
+                  }
+                ],
+                "title": "Yucatan"
               }
             ]
           },
