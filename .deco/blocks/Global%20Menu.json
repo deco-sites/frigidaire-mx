@@ -30,15 +30,15 @@
               ],
               "title": "Refrigeradores",
               "link": "/",
-              "titleColor": "base-100",
-              "icon": "search"
+              "titleColor": "primary",
+              "icon": "freezer-frigidaire"
             }
           ]
         },
         {
           "categories": [
             {
-              "icon": "search",
+              "icon": "cocina-frigidaire",
               "navItems": [
                 {
                   "icon": "search",
@@ -67,7 +67,7 @@
                 }
               ],
               "link": "/",
-              "titleColor": "base-100",
+              "titleColor": "primary-content",
               "title": "Cocinas"
             }
           ]
@@ -93,7 +93,7 @@
       "link": "/",
       "color": "black",
       "title": "Cocina",
-      "icon": "search"
+      "icon": "cocina-frigidaire"
     },
     {
       "collums": [
