@@ -67,7 +67,7 @@
                 }
               ],
               "link": "/",
-              "titleColor": "primary-content",
+              "titleColor": "primary",
               "title": "Cocinas"
             }
           ]
@@ -75,7 +75,7 @@
         {
           "categories": [
             {
-              "icon": "search",
+              "icon": "dryer-frigidaire",
               "navItems": [
                 {
                   "icon": "search",
@@ -84,7 +84,7 @@
                 }
               ],
               "link": "/",
-              "titleColor": "base-100",
+              "titleColor": "primary",
               "title": "Lavavajillas"
             }
           ]
