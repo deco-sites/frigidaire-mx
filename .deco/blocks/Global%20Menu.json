@@ -30,7 +30,7 @@
               ],
               "title": "Refrigeradores",
               "link": "/",
-              "titleColor": "primary",
+              "titleColor": "black",
               "icon": "freezer-frigidaire"
             }
           ]
@@ -67,8 +67,8 @@
                 }
               ],
               "link": "/",
-              "titleColor": "primary",
-              "title": "Cocinas"
+              "titleColor": "black",
+              "title": "Cocción"
             }
           ]
         },
@@ -84,7 +84,7 @@
                 }
               ],
               "link": "/",
-              "titleColor": "primary",
+              "titleColor": "black",
               "title": "Lavavajillas"
             }
           ]
@@ -93,7 +93,7 @@
       "link": "/",
       "color": "black",
       "title": "Cocina",
-      "icon": "cocina-frigidaire"
+      "icon": "refrigerator-frigidaire"
     },
     {
       "collums": [
@@ -117,10 +117,10 @@
                   "link": "/"
                 }
               ],
-              "titleColor": "base-100",
-              "title": "Area de Lavado",
+              "titleColor": "black",
+              "title": "Lavado",
               "link": "/",
-              "icon": "search"
+              "icon": "dryer-frigidaire"
             }
           ]
         }
@@ -128,20 +128,38 @@
       "link": "/",
       "color": "black",
       "title": "Area de Lavado",
-      "icon": "search"
+      "icon": "dryer-frigidaire"
     },
     {
-      "collums": [],
+      "collums": [
+        {
+          "categories": [
+            {
+              "icon": "conditioning-frigidaire",
+              "navItems": [
+                {
+                  "icon": "search",
+                  "title": "Split",
+                  "link": "/"
+                }
+              ],
+              "titleColor": "black",
+              "title": "Aire Acondicionado",
+              "link": "/"
+            }
+          ]
+        }
+      ],
       "title": "Bienestar del Hogar",
       "link": "/",
-      "icon": "search",
+      "icon": "conditioning-frigidaire",
       "color": "black"
     },
     {
-      "color": "base-100",
+      "color": "black",
       "collums": [],
       "title": "¿Dónde comprar?",
-      "icon": "search",
+      "icon": "shopping_bag",
       "link": "/donde-comprar"
     }
   ],
