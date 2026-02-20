@@ -3,43 +3,84 @@
 @tailwind utilities;
 
 @layer base {
-
   /* Allow changing font family via CMS */
   html {
-    font-family: var(--font-family);
+    font-family: "Gotham";
+    @apply antialiased;
+    scroll-behavior: smooth;
   }
 
   /** Remove default styles from input[type=number] */
-  input[type=number]::-webkit-inner-spin-button,
-  input[type=number]::-webkit-outer-spin-button {
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
     -webkit-appearance: none;
     margin: 0;
   }
 
-  input[type=number] {
-    -moz-appearance: textfield;
-    appearance: textfield;
-  }
-}
-
-@layer components {
-
-  /** Prevent scroll when modal is open */
-  .no-scroll {
+  /* Disable scroll once drawer/modal is openned */
+  body:has(.drawer-toggle:checked) {
     overflow: hidden;
     height: 100vh;
   }
 }
 
-@layer utilities {
+.group:disabled .group-disabled\:animate-progress {
+  animation: progress-frame ease normal;
+}
 
-  /** Remove scrollbar from overflow-auto */
-  .scrollbar-none {
-    scrollbar-width: none;
-    -ms-overflow-style: none;
+@keyframes progress-frame {
+  0% {
+    --dot-progress: 0%;
   }
 
-  .scrollbar-none::-webkit-scrollbar {
-    display: none;
+  to {
+    --dot-progress: 100%;
   }
+}
+
+.policy-content a {
+  @apply underline;
+}
+
+.policy-content h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: revert-layer;
+  font-weight: revert-layer;
+}
+
+select {
+  background-image: url("https://deco-sites-assets.s3.sa-east-1.amazonaws.com/elux-nola-us/dfb613ec-7f3f-45d7-95b3-c70a4774fe0e/chevron.png")
+    !important;
+  background-size: 24px !important;
+  background-position:
+    calc(100% - 16px) calc(50%),
+    calc(100%) calc(50%) !important;
+  outline: none !important;
+}
+
+textarea {
+  resize: none;
+  outline: none !important;
+}
+
+input {
+  outline: none !important;
+}
+
+.toast-shadow {
+  box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.toast-show {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.toast-hide {
+  transform: translateY(100%);
+  opacity: 0;
 }
